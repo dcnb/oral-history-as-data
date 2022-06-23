@@ -82,7 +82,7 @@ sass:
 collections:
   transcripts:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:title
   howto:
     output: true
     permalink: /:collection/:name
